@@ -14,8 +14,7 @@ const basicIntroduction = () => {
           majoring in Data Science and Artificial Intelligence. I’m passionate
           about exploring the intersections between data, algorithms, and
           real-world applications. I have hands-on experience working with
-          Python. For this personal website, I use Next.js with TypeScript and
-          Tailwind CSS to create modern, responsive web applications. <br />
+          Python. <br />
           <br />
           Currently, I’m seeking internship opportunities where I can apply my
           skills, grow professionally, and contribute to meaningful projects. I

@@ -49,16 +49,6 @@ export default function Page() {
             Coursework
             <ul>
               <li
-                onClick={() =>
-                  handleClick(
-                    "https://nbviewer.org/github/ZoeLong98/LearningML/blob/main/LinearRegression.ipynb"
-                  )
-                }
-                className="whitespace-nowrap hover:cursor-pointer"
-              >
-                Linear Regression
-              </li>
-              <li
                 onClick={() => handleClick("/PCA.html")}
                 className="hover:cursor-pointer"
               >
@@ -81,6 +71,16 @@ export default function Page() {
                 className="hover:cursor-pointer"
               >
                 Decision Tree
+              </li>
+              <li
+                onClick={() =>
+                  handleClick(
+                    "https://nbviewer.org/github/ZoeLong98/LearningML/blob/main/LinearRegression.ipynb"
+                  )
+                }
+                className="whitespace-nowrap hover:cursor-pointer"
+              >
+                Linear Regression
               </li>
             </ul>
           </li>

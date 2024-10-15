@@ -15,9 +15,7 @@ export default function Page() {
                 <span className={styles.time}>August 2024 - present</span>
               </span>
             </div>
-            <div className={styles.desc}>
-              My current employment. Way better than the position before!
-            </div>
+            <div className={styles.desc}></div>
           </div>
         </li>
 
@@ -29,10 +27,7 @@ export default function Page() {
                 <span className={styles.time}>Apr 2024 - Jun 2024</span>
               </span>
             </div>
-            <div className={styles.desc}>
-              My first employer. All the stuff I've learned and projects I've
-              been working on.
-            </div>
+            <div className={styles.desc}></div>
           </div>
         </li>
 
@@ -44,10 +39,7 @@ export default function Page() {
                 <span className={styles.time}>2020 - 2024</span>
               </span>
             </div>
-            <div className={styles.desc}>
-              A description of all the lectures and courses I have taken and my
-              final degree?
-            </div>
+            <div className={styles.desc}></div>
           </div>
         </li>
       </ul>
