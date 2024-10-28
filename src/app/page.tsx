@@ -25,7 +25,7 @@ export default function PersonalInformation() {
     }, 4000);
   };
   return (
-    <div className="p-7 flex flex-col lg:flex-row items-center justify-center min-h-screen w-full text-white space-x-36">
+    <div className="p-7 flex flex-col lg:flex-row items-center justify-center min-h-screen w-full text-white space-x-36 lg:mx-16">
       <div className="flex flex-col items-center justify-center my-6">
         <div className="relative w-44">
           <div className="absolute top-0 left-0 w-full">

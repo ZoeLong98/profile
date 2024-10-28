@@ -73,6 +73,12 @@ export default function Page() {
                 Decision Tree
               </li>
               <li
+                onClick={() => handleClick("/CSC_859_2.pdf")}
+                className="hover:cursor-pointer"
+              >
+                Random Forest
+              </li>
+              <li
                 onClick={() =>
                   handleClick(
                     "https://nbviewer.org/github/ZoeLong98/LearningML/blob/main/LinearRegression.ipynb"
